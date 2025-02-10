@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/goran-nakerst
+    - icon: github
+      text: Github
+      href: https://github.com/jamblejoe
+
+---
+
+Hi, I am Goran, a graduated mathematician with a PhD in theoretical physics. I am currently working as a datascientist in a German insurance company. This blog contains articles, notebooks and code-snippets about machine learning, physics and [Julia](https://julialang.org/).

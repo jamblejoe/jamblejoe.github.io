@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "gorans blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        text: LinkedIn
+        href: https://linkedin.com/in/goran-nakerst
+      - icon: github
+        text: Github
+        href: https://github.com/jamblejoe
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
